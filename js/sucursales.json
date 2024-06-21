@@ -1,0 +1,13 @@
+[
+    {
+        "nombre": "Sucursal Principal",
+        "direccion": "Av. Principal 1234",
+        "horarios": "Lunes a Viernes: 9:00 - 18:00"
+    },
+    {
+        "nombre": "Sucursal Secundaria",
+        "direccion": "Calle Secundaria 567",
+        "horarios": "Lunes a Sábado: 10:00 - 20:00"
+    }
+    
+]
